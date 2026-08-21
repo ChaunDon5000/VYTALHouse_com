@@ -2,7 +2,7 @@
 
 Public VYTAL House marketing website and stage-safe partner/member information.
 
-**Umbrella:** [VYTAL Enterprise](https://github.com/ChaunDon5000/VYTALEnterprise)
+**Umbrella:** [VYTAL Enterprise](https://github.com/VYTALHouse/VYTALEnterprise)
 **Stage:** Planned
 **Brand platform:** Change Your State.
 
@@ -34,10 +34,10 @@ tests/      Contract, integration and quality tests
 
 ## Related repositories
 
-- [VYTALEnterprise](https://github.com/ChaunDon5000/VYTALEnterprise)
-- [VYTALHouse](https://github.com/ChaunDon5000/VYTALHouse)
-- [VYTALBranding](https://github.com/ChaunDon5000/VYTALBranding)
-- [VYTALCRM](https://github.com/ChaunDon5000/VYTALCRM)
+- [VYTALEnterprise](https://github.com/VYTALHouse/VYTALEnterprise)
+- [VYTALHouse](https://github.com/VYTALHouse/VYTALHouse)
+- [VYTALBranding](https://github.com/VYTALHouse/VYTALBranding)
+- [VYTALCRM](https://github.com/VYTALHouse/VYTALCRM)
 
 ## Public-repository guardrails
 
